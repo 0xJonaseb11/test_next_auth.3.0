@@ -1,0 +1,13 @@
+# compiler files
+out
+build
+cache
+
+# node_modules
+node_modules
+
+# tests
+coverage
+
+#  files / directories
+test_auth
