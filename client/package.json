@@ -10,13 +10,19 @@
   },
   "dependencies": {
     "@prisma/client": "^5.16.0",
+    "axios": "^1.7.2",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cookie": "^0.6.0",
     "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
     "next": "14.2.4",
     "next-auth": "^4.24.7",
     "react": "^18",
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
